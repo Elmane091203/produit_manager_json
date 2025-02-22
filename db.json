@@ -1,13 +1,6 @@
 {
   "produits": [
-    {
-    "id": 1,
-    "description": "description",
-    "code": "code",
-    "designation": "designation",
-    "date_expiration": "date_expiration?.toIso8601String()",
-    "prix": "prix"
-}
+    
   ]
   
 }
